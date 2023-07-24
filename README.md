@@ -3,7 +3,7 @@ The project main goal is to understand and analyze data sets that contains infor
 The data composes of two different datasets:
 1) Factory test data- contains 51 samples from different devices measurements
 2) New devices data- contains 3 new samples
-3) 
+
 ## Main Sections
 ### 1) Data loading and description
 Load the 'factory test data' and provide a description of its contents.
